@@ -1,0 +1,372 @@
+@font-face {
+    font-family: "bsw-icons";
+    src:  local('bsw-icons'),
+    url("./fonts/bsw-icons.eot?ba960bb0bfab7efc107823190a6b3566#iefix") format("embedded-opentype"),
+url("./fonts/bsw-icons.woff2?ba960bb0bfab7efc107823190a6b3566") format("woff2"),
+url("./fonts/bsw-icons.woff?ba960bb0bfab7efc107823190a6b3566") format("woff"),
+url("./fonts/bsw-icons.ttf?ba960bb0bfab7efc107823190a6b3566") format("truetype"),
+url("./fonts/bsw-icons.svg?ba960bb0bfab7efc107823190a6b3566#bsw-icons") format("svg");
+    font-display: swap;
+}
+
+[class^="bsw-icon-"], 
+[class*=" bsw-icon-"] {
+    font-family: "bsw-icons" !important;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-transform: none;
+}
+
+.bsw-icon-account:before {
+    content: "\e001";
+}
+.bsw-icon-alert:before {
+    content: "\e002";
+}
+.bsw-icon-aqc:before {
+    content: "\e003";
+}
+.bsw-icon-area-code:before {
+    content: "\e004";
+}
+.bsw-icon-arrow-45:before {
+    content: "\e005";
+}
+.bsw-icon-arrow-down:before {
+    content: "\e006";
+}
+.bsw-icon-arrow:before {
+    content: "\e007";
+}
+.bsw-icon-atm:before {
+    content: "\e008";
+}
+.bsw-icon-bag:before {
+    content: "\e009";
+}
+.bsw-icon-blog:before {
+    content: "\e00a";
+}
+.bsw-icon-building:before {
+    content: "\e00b";
+}
+.bsw-icon-calendar:before {
+    content: "\e00c";
+}
+.bsw-icon-camera:before {
+    content: "\e00d";
+}
+.bsw-icon-car:before {
+    content: "\e00e";
+}
+.bsw-icon-chat:before {
+    content: "\e00f";
+}
+.bsw-icon-check:before {
+    content: "\e010";
+}
+.bsw-icon-chevron-down:before {
+    content: "\e011";
+}
+.bsw-icon-chevron-left:before {
+    content: "\e012";
+}
+.bsw-icon-chevron-right:before {
+    content: "\e013";
+}
+.bsw-icon-chevron-up:before {
+    content: "\e014";
+}
+.bsw-icon-chip:before {
+    content: "\e015";
+}
+.bsw-icon-clipboard:before {
+    content: "\e016";
+}
+.bsw-icon-clock:before {
+    content: "\e017";
+}
+.bsw-icon-covid-19:before {
+    content: "\e018";
+}
+.bsw-icon-credentials:before {
+    content: "\e019";
+}
+.bsw-icon-credit-card:before {
+    content: "\e01a";
+}
+.bsw-icon-dining-options:before {
+    content: "\e01b";
+}
+.bsw-icon-directions:before {
+    content: "\e01c";
+}
+.bsw-icon-dot:before {
+    content: "\e01d";
+}
+.bsw-icon-edit:before {
+    content: "\e01e";
+}
+.bsw-icon-ellipsis:before {
+    content: "\e01f";
+}
+.bsw-icon-exclamation:before {
+    content: "\e020";
+}
+.bsw-icon-expand:before {
+    content: "\e021";
+}
+.bsw-icon-facebook:before {
+    content: "\e022";
+}
+.bsw-icon-find-care:before {
+    content: "\e023";
+}
+.bsw-icon-globe:before {
+    content: "\e024";
+}
+.bsw-icon-grid:before {
+    content: "\e025";
+}
+.bsw-icon-hamburger:before {
+    content: "\e026";
+}
+.bsw-icon-help:before {
+    content: "\e027";
+}
+.bsw-icon-help2:before {
+    content: "\e028";
+}
+.bsw-icon-information:before {
+    content: "\e029";
+}
+.bsw-icon-instagram:before {
+    content: "\e02a";
+}
+.bsw-icon-insurance:before {
+    content: "\e02b";
+}
+.bsw-icon-location:before {
+    content: "\e02c";
+}
+.bsw-icon-mask:before {
+    content: "\e02d";
+}
+.bsw-icon-medical:before {
+    content: "\e02e";
+}
+.bsw-icon-message:before {
+    content: "\e02f";
+}
+.bsw-icon-minimize:before {
+    content: "\e030";
+}
+.bsw-icon-minus:before {
+    content: "\e031";
+}
+.bsw-icon-money:before {
+    content: "\e032";
+}
+.bsw-icon-multilingual:before {
+    content: "\e033";
+}
+.bsw-icon-mute:before {
+    content: "\e034";
+}
+.bsw-icon-my-location:before {
+    content: "\e035";
+}
+.bsw-icon-new-patient:before {
+    content: "\e036";
+}
+.bsw-icon-no-patient:before {
+    content: "\e037";
+}
+.bsw-icon-parking:before {
+    content: "\e038";
+}
+.bsw-icon-pause:before {
+    content: "\e039";
+}
+.bsw-icon-phone:before {
+    content: "\e03a";
+}
+.bsw-icon-pinterest:before {
+    content: "\e03b";
+}
+.bsw-icon-play:before {
+    content: "\e03c";
+}
+.bsw-icon-plus:before {
+    content: "\e03d";
+}
+.bsw-icon-post-office:before {
+    content: "\e03e";
+}
+.bsw-icon-printer:before {
+    content: "\e03f";
+}
+.bsw-icon-proxy:before {
+    content: "\e040";
+}
+.bsw-icon-recent-search:before {
+    content: "\e041";
+}
+.bsw-icon-resource:before {
+    content: "\e042";
+}
+.bsw-icon-results:before {
+    content: "\e043";
+}
+.bsw-icon-search-doctors:before {
+    content: "\e044";
+}
+.bsw-icon-search-locations:before {
+    content: "\e045";
+}
+.bsw-icon-search-medical-records:before {
+    content: "\e046";
+}
+.bsw-icon-search:before {
+    content: "\e047";
+}
+.bsw-icon-secure:before {
+    content: "\e048";
+}
+.bsw-icon-security:before {
+    content: "\e049";
+}
+.bsw-icon-service:before {
+    content: "\e04a";
+}
+.bsw-icon-settings:before {
+    content: "\e04b";
+}
+.bsw-icon-share:before {
+    content: "\e04c";
+}
+.bsw-icon-sort:before {
+    content: "\e04d";
+}
+.bsw-icon-star:before {
+    content: "\e04e";
+}
+.bsw-icon-tab-chip:before {
+    content: "\e04f";
+}
+.bsw-icon-testing:before {
+    content: "\e050";
+}
+.bsw-icon-text-reminders:before {
+    content: "\e051";
+}
+.bsw-icon-twitter:before {
+    content: "\e052";
+}
+.bsw-icon-unmute:before {
+    content: "\e053";
+}
+.bsw-icon-vaccine:before {
+    content: "\e054";
+}
+.bsw-icon-video-visit:before {
+    content: "\e055";
+}
+.bsw-icon-visitor-lounge:before {
+    content: "\e056";
+}
+.bsw-icon-wallet:before {
+    content: "\e057";
+}
+.bsw-icon-weather:before {
+    content: "\e058";
+}
+.bsw-icon-x:before {
+    content: "\e059";
+}
+.bsw-icon-youtube:before {
+    content: "\e05a";
+}
+.bsw-icon-bswh-symbol:before {
+    content: "\f101";
+}
+.bsw-icon-help-center:before {
+    content: "\f102";
+}
+.bsw-icon-question:before {
+    content: "\f103";
+}
+.bsw-icon-attachment:before {
+    content: "\f104";
+}
+.bsw-icon-patient:before {
+    content: "\f105";
+}
+.bsw-icon-medications:before {
+    content: "\f106";
+}
+.bsw-icon-favorite-filled:before {
+    content: "\f107";
+}
+.bsw-icon-favorite:before {
+    content: "\f108";
+}
+.bsw-icon-linkedin:before {
+    content: "\f109";
+}
+.bsw-icon-visibility-off:before {
+    content: "\f10a";
+}
+.bsw-icon-visibility-on:before {
+    content: "\f10b";
+}
+.bsw-icon-docs-folder:before {
+    content: "\f10c";
+}
+.bsw-icon-sort-order:before {
+    content: "\f10d";
+}
+.bsw-icon-logout:before {
+    content: "\f10e";
+}
+.bsw-icon-prescription:before {
+    content: "\f10f";
+}
+.bsw-icon-download:before {
+    content: "\f110";
+}
+.bsw-icon-message-notification:before {
+    content: "\f111";
+}
+.bsw-icon-reset:before {
+    content: "\f112";
+}
+.bsw-icon-trash:before {
+    content: "\f113";
+}
+.bsw-icon-copy:before {
+    content: "\f114";
+}
+
+/* Brand Icons */
+[class^='bsw-icon__brand'],
+[class*=' bsw-icon-'] {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+.bsw-icon__brand--small {
+  width: 24px;
+  height: 24px;
+}
+
+.bsw-icon__brand--large {
+  width: 64px;
+  height: 64px;
+}
