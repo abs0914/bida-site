@@ -8,7 +8,7 @@ This is a web project that includes a chatbot widget. It's designed using HTML, 
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/abs0914/your-repository.git
    ```
 2. Navigate to the project directory.
    ```
@@ -34,6 +34,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - me@alsantiago.com
 
-Project Link: [https://github.com/your-username/your-repository](https://github.com/your-username/your-repository)
+Project Link: [https://github.com/abs0914/your-repository](https://github.com/abs0914/your-repository)
