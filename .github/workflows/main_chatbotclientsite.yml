@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ChatBotClientSite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AAABE5E1B2E44146BDAE3412AEDF84AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35398C80A1CD4375A4F0D2956CBD7205 }}
           package: .
