@@ -3415,15 +3415,15 @@ div#providerlist-root .filter-modal-wrapper:has(.more-filters-absolute) {
 }
 
 .same-day-care .card-wrapper:nth-of-type(1) .card-title:before {
-  content: url(../fonts/evisit.svg);
+  content: url(../images/evisit.svg);
 }
 
 .same-day-care .card-wrapper:nth-of-type(2) .card-title:before {
-  content: url(../fonts/video-visit.svg);
+  content: url(../images/video-visit.svg);
 }
 
 .same-day-care .card-wrapper:nth-of-type(3) .card-title:before {
-  content: url(../fonts/walk-in.svg);
+  content: url(../images/walk-in.svg);
 }
 
 .same-day-care .card-wrapper.primary-white-bg .card-title h2 {

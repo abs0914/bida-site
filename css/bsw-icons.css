@@ -1,11 +1,11 @@
 @font-face {
     font-family: "bsw-icons";
     src:  local('bsw-icons'),
-    url("./fonts/bsw-icons.eot?ba960bb0bfab7efc107823190a6b3566#iefix") format("embedded-opentype"),
-url("./fonts/bsw-icons.woff2?ba960bb0bfab7efc107823190a6b3566") format("woff2"),
-url("./fonts/bsw-icons.woff?ba960bb0bfab7efc107823190a6b3566") format("woff"),
-url("./fonts/bsw-icons.ttf?ba960bb0bfab7efc107823190a6b3566") format("truetype"),
-url("./fonts/bsw-icons.svg?ba960bb0bfab7efc107823190a6b3566#bsw-icons") format("svg");
+    url("../fonts/bsw-icons.eot#iefix") format("embedded-opentype"),
+url("../fonts/bsw-icons.woff2") format("woff2"),
+url("../fonts/bsw-icons.woff") format("woff"),
+url("../fonts/bsw-icons.ttf") format("truetype"),
+url("../images/bsw-icons.svg#bsw-icons") format("svg");
     font-display: swap;
 }
 
