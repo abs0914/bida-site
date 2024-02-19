@@ -1180,6 +1180,38 @@
         t()
       }([])
     </script>
+    <!-- Chatbot Widget -->
+<script>
+   function toggleChatbot() {
+    var iframe = document.getElementById('chatbotIframe');
+    if (iframe.style.display === 'none') {
+      iframe.style.display = 'block';
+    } else {
+      iframe.style.display = 'none';
+    }
+  }
+  </script>
+    <!-- Chatbot Widget -->
+    <script>
+   function toggleChatbot() {
+    var iframe = document.getElementById('chatbotIframe');
+    if (iframe.style.display === 'none') {
+      iframe.style.display = 'block';
+    } else {
+      iframe.style.display = 'none';
+    }
+  }
+  </script>
+     <!-- Chatbot Widget -->
+    <div id="chatbotWidget" style="position: fixed; bottom: 10px; right: 10px; z-index: 100;">
+   <button onclick="toggleChatbot()" style="background-color: #007bff; color: white; padding: 10px; border: none; width: 150px; height: 50px;">
+    <i class="fas fa-comments">
+    </i> Need Help?
+   </button>
+   <iframe id="chatbotIframe" src="https://healthcare-bot-hil77b2xpxnra.azurewebsites.net/" style="display: none; width: 400px; height: 800px; border: 1px solid #ccc;">
+   </iframe>
+  </div>
+    
     <script src="js/2.eaa22d36.chunk.js"></script>
     <script src="js/main.029bba32.chunk.js"></script>
   </body>
